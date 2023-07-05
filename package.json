@@ -1,0 +1,6 @@
+{
+  "name": "playground-webcontainer-iframe-test",
+  "scripts": {
+    "build": "echo 'no build required'"
+  }
+}
